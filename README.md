@@ -7,8 +7,19 @@ by writing one line you can make your  beautiful gallery with features like grid
 
 
 Features
+
 📷 Grid layout for images
 
 🖼️ Full view mode
 
 🚀 Smooth image sliding
+
+
+Include jQuery:
+
+Ensure you have jQuery included in your project. You can download it or use a CDN.
+
+<script src="./gallery-plugin/jquery.js"></script>
+or use CDN
+
+   <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
