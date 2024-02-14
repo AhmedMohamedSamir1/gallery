@@ -8,5 +8,7 @@ by writing one line you can make your  beautiful gallery with features like grid
 
 Features
 📷 Grid layout for images
+
 🖼️ Full view mode
+
 🚀 Smooth image sliding
